@@ -1,2 +1,2 @@
-# ![Alt text](https://myoctocat.com/assets/images/base-octocat.svg)
+# ![Alt text](https://ibb.co/6RzNHgmH)
 A Balatro mod
