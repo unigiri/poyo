@@ -1,3 +1,8 @@
 # ![Alt text](https://iili.io/FxcKL7t.png)
-# A BALATRO MOD
-A Balatro mod
+
+# How to play
+
+To Play Poyo you will need :
++ Balatro on Steam
+- Lovely
++ Steamoded
