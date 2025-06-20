@@ -5,3 +5,5 @@ To Play Poyo you will need :
 - [Lovely Injector](https://github.com/ethangreen-dev/lovely-injector)
 + [Steamodded](https://github.com/Steamodded/smods)
 
+You will need to unzip the mod and put he file into your mod folder.
+To access it, go to the file browser and type this : `%appdata%\Balatro`
