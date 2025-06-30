@@ -7,3 +7,7 @@ To Play Poyo you will need :
 
 You will need to unzip the mod and put he file into your mod folder.
 To access it, go to the file browser and type this : `%appdata%\Balatro`
+
+#Usage
+Feel free to use the mod as you whant, modifing it, copying part of it, anything.
+Just credit what you take.
